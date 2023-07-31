@@ -18,7 +18,7 @@ Ferramentas e Tecnologias
 <div>
 Contatos
 <div>
-<a href="https://www.linkedin.com/in/paola-de-almeida-brina" target="_blank"><img loading="lazy"
+<a href="https://www.linkedin.com/in/paola-de-almeida-brina-65115027a/" target="_blank"><img loading="lazy"
 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 target="_blank"></a>
 </div>
