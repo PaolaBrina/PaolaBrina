@@ -22,3 +22,5 @@
 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 target="_blank"></a>
 </div>
+
+<img src="https://github.com/PaolaBrina/PaolaBrina/assets/141059782/22433a6b-7da7-4ffc-a5dd-56fdeb4d3243" width='300'/>
